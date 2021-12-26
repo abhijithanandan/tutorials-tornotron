@@ -8,5 +8,6 @@
 </head>
 <body>
     <p>Open chat window on clicking button.</p>
+    <p>Open chat window on clicking button.</p>
 </body>
 </html>
