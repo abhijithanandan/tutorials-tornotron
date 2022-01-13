@@ -9,5 +9,8 @@
 <body>
     <h1>We have created footer</h1>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium quae fugiat at incidunt minus dicta sed hic esse voluptatibus sit officiis quidem corrupti neque totam cum, mollitia doloremque ut laborum?</p>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium quae fugiat at incidunt minus dicta sed hic esse voluptatibus sit officiis quidem corrupti neque totam cum, mollitia doloremque ut laborum?</p>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium quae fugiat at incidunt minus dicta sed hic esse voluptatibus sit officiis quidem corrupti neque totam cum, mollitia doloremque ut laborum?</p>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium quae fugiat at incidunt minus dicta sed hic esse voluptatibus sit officiis quidem corrupti neque totam cum, mollitia doloremque ut laborum?</p>
 </body>
 </html>
